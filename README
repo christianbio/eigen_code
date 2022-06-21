@@ -1,0 +1,13 @@
+To run the openmp parallel version:
+
+>make parallel
+
+executable -> eigen_fit_parallel
+
+to run the non-parallel version
+
+>make
+
+executable -> eigen_fit
+
+
