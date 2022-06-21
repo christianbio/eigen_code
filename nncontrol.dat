@@ -1,0 +1,8 @@
+!stdout out.log
+!sumtype
+mhidden 9
+randomize+ 0.0d0 
+read mnet
+itmax 8192
+mnet_cut 3.5d0
+run mnet
